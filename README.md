@@ -1,7 +1,7 @@
 # CPNT 201 - ASSIGNMENT 4 - MERGE CONFLICT
 
-Repository Link: [cpnt201-a4]()  
-GitHub Page Link: [cpnt201-a4]() 
+Repository Link: [cpnt201-a4](https://github.com/edirvine333/cpnt201-a4)    
+GitHub Page Link: [cpnt201-a4](https://edirvine333.github.io/cpnt201-a4/)   
 
 Repository Owner:  Ed Irvine  
 Repository Maintainer:  Ed Irvine  
